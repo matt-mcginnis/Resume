@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2022.4.20)  21 APR 2022 10:28
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2022.4.20)  21 APR 2022 13:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -349,7 +349,12 @@ Package hyperref Info: Option `colorlinks' set `false' on input line 95.
 \c@colorCounter=\count309
 ) (/usr/share/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/04/01  v 6.2
-) (./resume.aux)
+) (/usr/share/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+ (/usr/share/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
+File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
+\BKM@id=\count310
+)) (./resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
@@ -453,15 +458,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count310
+\c@section@level=\count311
 )
 LaTeX Info: Redefining \ref on input line 67.
 LaTeX Info: Redefining \pageref on input line 67.
 LaTeX Info: Redefining \nameref on input line 67.
- (./resume.out) (./resume.out)
-\@outlinefile=\write3
-\openout3 = `resume.out'.
-
  (./resume/education.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 10.95116pt on input line 12.
@@ -481,15 +482,12 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not availa
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 12.
 ) (./resume/experience.tex) (./resume/development.tex) (./resume/publications.tex) [1
 
-] (./resume.aux)
-Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
- ) 
+] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 18653 strings out of 476180
- 339833 string characters out of 5815297
- 835460 words of memory out of 5000000
- 39136 multiletter control sequences out of 15000+600000
+ 18869 strings out of 476180
+ 343514 string characters out of 5815297
+ 839245 words of memory out of 5000000
+ 39350 multiletter control sequences out of 15000+600000
  471871 words of font info for 94 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,11n,115p,525b,504s stack positions out of 5000i,500n,10000p,200000b,80000s

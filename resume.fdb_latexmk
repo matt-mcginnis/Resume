@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1650551302 "resume.xdv" "resume.pdf" "resume" 1650551302
-  "resume.xdv" 1650551302 43796 84859a745600347724931b3da764daf8 "xelatex"
+["xdvipdfmx"] 1650561535 "resume.xdv" "resume.pdf" "resume" 1650561535
+  "resume.xdv" 1650561535 43796 7fdd9c20cae0a3caf6043a01f87c35d1 "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1650551301 "resume.tex" "resume.xdv" "resume" 1650551302
+["xelatex"] 1650561534 "resume.tex" "resume.xdv" "resume" 1650561535
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1647844622 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1647844622 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1647844622 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -42,6 +42,8 @@
   "/usr/share/texmf-dist/tex/latex/base/size11.clo" 1647844622 8464 74db94825c407b51399ca17d9bd38a3d ""
   "/usr/share/texmf-dist/tex/latex/base/ts1enc.def" 1647844622 8044 fa8875fa7360fa4a5757411aa07dae10 ""
   "/usr/share/texmf-dist/tex/latex/base/tuenc.def" 1647844622 29098 3e2b8f2cbae539bde3ed8f63503c0954 ""
+  "/usr/share/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def" 1647844622 5396 4e3b7d62b53e492a2457a5656920e653 ""
+  "/usr/share/texmf-dist/tex/latex/bookmark/bookmark.sty" 1647844622 18237 5cbdfe9ef383a557f780a0a1f45cdb1c ""
   "/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty" 1647807149 51697 f8f08183cd2080d9d18a41432d651dfb ""
   "/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1647844622 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1647844622 17086 7ed8cbc4d361ec87392817e0dd4f65ec ""
@@ -81,17 +83,15 @@
   "/usr/share/texmf-dist/tex/latex/xifthen/xifthen.sty" 1647807149 5689 1bfa68243e89a54479e7d0580773c57e ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1647844622 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1650478704 5821176 3c606a61a520f66696d4d735e1178a27 ""
-  "awesome-cv.cls" 1650479396 22164 f32d75af5c5ba4d0ee790d2e08cef911 ""
-  "fontawesome.sty" 1650479396 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
-  "resume.aux" 1650551302 652 27234ec14a0cd9df31d7cc62edcdbc23 "xelatex"
-  "resume.out" 0 -1 0 "xelatex"
-  "resume.tex" 1650551256 2147 76f3e91030109b05f6b10dfe6fb738f3 ""
-  "resume/development.tex" 1650479396 912 77a208f0f5d664fc59b5ddc8020bc7ed ""
-  "resume/education.tex" 1650479396 481 8a016afef21039d4745785a2e03a0134 ""
-  "resume/experience.tex" 1650479396 2780 6de7fe9b93bc7d13f7ad139d22fab7d1 ""
-  "resume/publications.tex" 1650479396 686 a4b00a4c57499ead8cd8334b3ae83d05 ""
+  "awesome-cv.cls" 1650560996 22164 f32d75af5c5ba4d0ee790d2e08cef911 ""
+  "fontawesome.sty" 1650560996 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
+  "resume.aux" 1650561535 652 27234ec14a0cd9df31d7cc62edcdbc23 "xelatex"
+  "resume.tex" 1650561533 2168 81c680d3faa48604b311a2a65bd5d8e5 ""
+  "resume/development.tex" 1650560996 912 77a208f0f5d664fc59b5ddc8020bc7ed ""
+  "resume/education.tex" 1650560996 481 8a016afef21039d4745785a2e03a0134 ""
+  "resume/experience.tex" 1650560996 2780 6de7fe9b93bc7d13f7ad139d22fab7d1 ""
+  "resume/publications.tex" 1650560996 686 a4b00a4c57499ead8cd8334b3ae83d05 ""
   (generated)
   "resume.aux"
   "resume.log"
-  "resume.out"
   "resume.xdv"
