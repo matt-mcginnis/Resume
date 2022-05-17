@@ -262,7 +262,6 @@ INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-INPUT extractbb --version
 INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 INPUT /usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
