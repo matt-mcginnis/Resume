@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1652750353 "resume.xdv" "resume.pdf" "resume" 1652750353
-  "resume.xdv" 1652750353 43236 a0c7ad4ad825efa355f882dda0a86d82 "xelatex"
+["xdvipdfmx"] 1653352502 "resume.xdv" "resume.pdf" "resume" 1653352502
+  "resume.xdv" 1653352502 49580 1e1722c989e129e9dd172fae8a510439 "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1652750352 "resume.tex" "resume.xdv" "resume" 1652750353
+["xelatex"] 1653352501 "resume.tex" "resume.xdv" "resume" 1653352502
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1650183167 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1650183167 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -85,12 +85,12 @@
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1652661553 5825172 88ca94a94c82ffe64723142417ce21ab ""
   "awesome-cv.cls" 1650560996 22164 f32d75af5c5ba4d0ee790d2e08cef911 ""
   "fontawesome.sty" 1650560996 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
-  "resume.aux" 1652750353 652 27234ec14a0cd9df31d7cc62edcdbc23 "xelatex"
+  "resume.aux" 1653352502 652 27234ec14a0cd9df31d7cc62edcdbc23 "xelatex"
   "resume.tex" 1650734604 2168 81c680d3faa48604b311a2a65bd5d8e5 ""
-  "resume/development.tex" 1652750351 678 1cac14e71b255bc4fb12ffbc653e6a3c ""
+  "resume/development.tex" 1653352500 1357 df5e2387593dc09572bfd18d234bffa7 ""
   "resume/education.tex" 1650560996 481 8a016afef21039d4745785a2e03a0134 ""
   "resume/experience.tex" 1652744398 2474 413e120fe52a7c55a279208881569125 ""
-  "resume/publications.tex" 1650560996 686 a4b00a4c57499ead8cd8334b3ae83d05 ""
+  "resume/publications.tex" 1653351600 688 c79b2ad4b9d78d01c3ff55f8dfd821f5 ""
   (generated)
   "resume.aux"
   "resume.log"
