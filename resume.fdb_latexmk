@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1654874195 "resume.xdv" "resume.pdf" "resume" 1654874195
-  "resume.xdv" 1654874195 48916 2900a5937b1bd20886bae793221a2538 "xelatex"
+["xdvipdfmx"] 1657239184 "resume.xdv" "resume.pdf" "resume" 1657239184
+  "resume.xdv" 1657239183 48880 7d125d1f4ffa34b7ecc4698257c8f01b "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1654874194 "resume.tex" "resume.xdv" "resume" 1654874195
+["xelatex"] 1657239183 "resume.tex" "resume.xdv" "resume" 1657239184
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1650183167 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1650183167 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -82,15 +82,15 @@
   "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1650183167 56029 3f7889dab51d620aa43177c391b7b190 ""
   "/usr/share/texmf-dist/tex/latex/xifthen/xifthen.sty" 1650181202 5689 1bfa68243e89a54479e7d0580773c57e ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
-  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1652661553 5825172 88ca94a94c82ffe64723142417ce21ab ""
-  "awesome-cv.cls" 1650560996 22164 f32d75af5c5ba4d0ee790d2e08cef911 ""
-  "fontawesome.sty" 1650560996 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
-  "resume.aux" 1654874195 652 27234ec14a0cd9df31d7cc62edcdbc23 "xelatex"
-  "resume.tex" 1654874181 2169 1d38365aa25d9441920dcf1c18b965b5 ""
-  "resume/development.tex" 1653434048 1360 4a14c7a2491af99628092219593df4f5 ""
-  "resume/education.tex" 1650560996 481 8a016afef21039d4745785a2e03a0134 ""
-  "resume/experience.tex" 1652744398 2474 413e120fe52a7c55a279208881569125 ""
-  "resume/publications.tex" 1653351600 688 c79b2ad4b9d78d01c3ff55f8dfd821f5 ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1655250235 5825171 15d31f4a9c6abf28c0bdbdade5bcc42d ""
+  "awesome-cv.cls" 1657238666 22164 f32d75af5c5ba4d0ee790d2e08cef911 ""
+  "fontawesome.sty" 1657238666 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
+  "resume.aux" 1657239183 652 27234ec14a0cd9df31d7cc62edcdbc23 "xelatex"
+  "resume.tex" 1657238666 2169 1d38365aa25d9441920dcf1c18b965b5 ""
+  "resume/development.tex" 1657239182 1357 225e2464e9ffc4e32f86631878b1433e ""
+  "resume/education.tex" 1657238666 481 8a016afef21039d4745785a2e03a0134 ""
+  "resume/experience.tex" 1657239037 2474 815ff6493de9a97d46f073559637e610 ""
+  "resume/publications.tex" 1657238666 688 c79b2ad4b9d78d01c3ff55f8dfd821f5 ""
   (generated)
   "resume.aux"
   "resume.log"
