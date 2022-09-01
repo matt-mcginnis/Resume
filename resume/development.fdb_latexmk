@@ -1,9 +1,0 @@
-# Fdb version 3
-["pdflatex"] 1652746291 "development.tex" "development.pdf" "development" 1652746291
-  "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1652661550 2927663 c171c5d780e1ae50f6d6438196da6f50 ""
-  "development.aux" 1652746291 32 3985256e7290058c681f74d7a3565a19 ""
-  "development.tex" 1652746253 684 fd9ec2b3a841f4ef6c00ca3a8822b465 ""
-  (generated)
-  "development.log"
-  "development.pdf"
